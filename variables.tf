@@ -18,3 +18,7 @@ variable "db_encrypted" {
   description = "Encrypt the database storage"
   type = bool
 }
+variable "default_value"{
+description = "variable with default value"
+default = "test"
+}
