@@ -20,5 +20,4 @@ variable "db_encrypted" {
 }
 variable "default_value"{
 description = "variable with default value"
-default = "test"
 }
